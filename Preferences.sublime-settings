@@ -3,13 +3,12 @@
 	"caret_style": "phase",
 	"index_files": false,
 	"font_face": "JetBrainsMono Nerd Font Mono",
-	"font_size": 12,
+	"font_size": 8,
 	"font_options": [
 		"dlig",
 		"ss01" // test >=
 	],
 	"ignored_packages": [
-		"LSP-copilot",
 		"Vintage",
 	],
 	"neovintageous_build_version": 13200,
@@ -40,5 +39,5 @@
 		"<C-n>": false,
 	},
 	"theme": "auto",
-	"color_scheme": "Catppuccin Frappe.sublime-color-scheme",
+	"color_scheme": "Catppuccin Macchiato.sublime-color-scheme",
 }
